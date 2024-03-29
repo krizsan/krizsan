@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **krizsan/krizsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=krizsan&show_icons=true&bg_color=00000000&hide_title=false"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krizsan&layout=compact&bg_color=0000000">
